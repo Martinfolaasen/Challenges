@@ -1,6 +1,6 @@
-Name: 
-Course: Intro to Terminal
-Year: 2026
+Name: pp
+Course: Exit to Terminal
+Year: 2027
 
-Tell us a bit about yourself:
+Tell us a bit about yourself: I like to punch metal for fun
 
